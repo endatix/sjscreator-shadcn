@@ -22,7 +22,10 @@
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-shadow": "^20.5.0",
     "sharp": "^0.31.3",
+    "survey-creator-core": "^1.12.13",
+    "survey-creator-react": "^1.12.13",
     "tailwind-merge": "^1.13.2",
     "tailwindcss-animate": "^1.0.6"
   },
