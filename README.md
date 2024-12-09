@@ -1,4 +1,4 @@
-# next-template
+# next-template with SurveyJS Creator and ShadCN UI
 
 A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 
